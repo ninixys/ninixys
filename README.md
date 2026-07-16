@@ -3,10 +3,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
+<img src="https://i.pinimg.com/originals/15/94/f3/1594f3255c6543d8f7909cd0716d36cd.gif">
 
 <h2 align="left"> <img src="https://i.postimg.cc/Xqg8C1gf/title1.png" width="25"/> <em>About  me </em></h2>
 
-<img src="https://i.pinimg.com/originals/53/40/bd/5340bd78187d42b45963f76d639e2bbf.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://i.pinimg.com/originals/1f/af/29/1faf29b4b45488252b003ce5d146af29.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p> Hello There! <em><b> I'm Maria Nicolle </b></em>, a Systems Development student. I enjoy learning new technologies and problem solving. Now I'm working at some little and fun projects to put in practice my knowledge. </p><br>
